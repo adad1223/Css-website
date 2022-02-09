@@ -1,0 +1,159 @@
+.top{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top:100px;
+
+
+
+
+
+
+}
+body{
+  margin: 0;
+  text-align: center;
+
+
+
+}
+h1{
+  margin:auto;
+  font-family: 'Comforter', cursive;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  color:#66BFBF;
+  line-height: 2;
+
+
+
+
+}
+.middle-container{
+
+
+
+
+
+
+}
+.bottom-container{
+
+
+
+
+}
+.stu{
+  text-decoration: underline;
+}
+.bottomcl{
+  position: absolute;
+  left: 300px;
+  bottom:300px;
+}
+.topcl{
+  position: absolute;
+  right: 300px;
+  top:50px;
+
+}
+.img{
+  border-radius: 100%;
+  width:300px;
+  height:300px;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Quintessential', cursive;
+  color:#66BFBF;
+  font-weight: normal;
+}
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+
+}
+.A-student{
+  margin-top:0;
+  line-height: 3.93;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Design{
+  border-radius: 100%;
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.cir1{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+hr{
+  border-style:none ;
+  border-top-style:dotted;
+  border-color:#EAF6F6;
+  border-width: 8px;
+  width:5%;
+
+}
+.mine{
+  margin-top: 90px;
+  border-radius: 100%;
+  width:250px;
+  height:200px;
+}
+.my-des{
+  color:#30514E
+}
+
+  .btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.contact-me{
+  line-height: 2;
+}
+.bottom-container{
+  margin-top: 10px;
+  background-color: #66BFBF;
+  height: 150px;
+}
+.lol{
+  position: relative;
+  top: 60px;
+  color:#EAF
+}
+.footer-link{
+  position: relative;
+  top: 40px;
+  margin-right: 20px;
+}
